@@ -107,7 +107,7 @@ class Text {
 
 
 
-//VECTOR  is vector even a type
+//VECTOR
 class Vector {
 
 
